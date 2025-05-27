@@ -15,7 +15,6 @@
   - [System Design Playlist](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=1&ab_channel=GauravSen)
 
 
-
 ## DSA/Coding :
 
 - Grind 75 Questions : https://www.techinterviewhandbook.org/grind75
@@ -37,6 +36,43 @@
 - DP for Beginners [Problems | Patterns | Sample Solutions] : https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions
 
 
+## Coding / Problem Solving Tricks
+
+#### If input array is sorted then:
+  - Binary Search
+  - Two Pointers
+
+#### If asked for all permutations/subsets then:
+  - Backtracking
+
+#### If given a tree/graph then:
+  - DFS
+  - BFS
+
+#### If given a linked list then:
+- Two Pointers
+
+#### If recursion is banned then:
+- Stack
+
+#### If must solve in-place then:
+- Swap corresponding values
+- Store one or more different values in the same pointer
+
+#### If asked for maximum/minimum subarray/subset/options then:
+- Dynamic Programming
+
+#### If asked for top/least K items then:
+- Heap
+- QuickSelect
+
+#### If asked for common strings then:
+- Map
+- Trie
+
+#### Else:
+- Map/Set for O(1) time and O(n) space
+- Sort input for O(n log n) time and O(1) space
 
 
 ## Java Backend Development (References) :
@@ -62,3 +98,6 @@
 - [8.2) Learn Basic Docker](https://www.youtube.com/watch?v=p28piYY_wv8&ab_channel=Amigoscode)
 - [8.3) Learn Basic Kubernetes](https://www.youtube.com/watch?v=rTNR7vDQDD8&ab_channel=in28minutes-CloudMadeEasy)
 - [8.4) Deploy Spring Boot App on Kubernetes](https://www.youtube.com/watch?v=EZolJ4lNiYc&ab_channel=TechnoTownTechie)
+
+
+## References
