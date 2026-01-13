@@ -10,7 +10,6 @@
 - OOPS
   - [OOPS CheatSheet](https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw)
 - Solid Design Principle
-
 - System Design:
   - [System Design Playlist](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=1&ab_channel=GauravSen)
 
@@ -38,41 +37,32 @@
 
 ## Coding / Problem Solving Tricks
 
-#### If input array is sorted then:
-  - Binary Search
-  - Two Pointers
-
-#### If asked for all permutations/subsets then:
-  - Backtracking
-
-#### If given a tree/graph then:
-  - DFS
-  - BFS
-
-#### If given a linked list then:
-- Two Pointers
-
-#### If recursion is banned then:
-- Stack
-
-#### If must solve in-place then:
-- Swap corresponding values
-- Store one or more different values in the same pointer
-
-#### If asked for maximum/minimum subarray/subset/options then:
-- Dynamic Programming
-
-#### If asked for top/least K items then:
-- Heap
-- QuickSelect
-
-#### If asked for common strings then:
-- Map
-- Trie
-
-#### Else:
-- Map/Set for O(1) time and O(n) space
-- Sort input for O(n log n) time and O(1) space
+- If input array is sorted then:
+    - Binary Search
+    - Two Pointers
+- If asked for all permutations/subsets then:
+    - Backtracking
+- If given a tree/graph then:
+    - DFS
+    - BFS
+- If given a linked list then:
+    - Two Pointers
+- If recursion is banned then:
+    - Stack
+- If must solve in-place then:
+    - Swap corresponding values
+    - Store one or more different values in the same pointer
+- If asked for maximum/minimum subarray/subset/options then:
+    - Dynamic Programming
+- If asked for top/least K items then:
+    - Heap
+    - QuickSelect
+- If asked for common strings then:
+    - Map
+    - Trie
+- Else:
+    - Map/Set for O(1) time and O(n) space
+    - Sort input for O(n log n) time and O(1) space
 
 
 ## Java Backend Development (References) :
@@ -80,9 +70,7 @@
 - [Backend Developer Roadmap](https://roadmap.sh/backend)
 - [Core Java LinkedIn Path](https://www.linkedin.com/learning/paths/nagarro-software-private-limited-java?u=2037868)
 - [Java Collections Frameworks](https://www.youtube.com/watch?v=VE_AAUxTUCY&ab_channel=RiddhiDutta)
-
 - [Twitter : Java Backend Development](https://twitter.com/vikasrajputin/status/1590923274451488768)
-
 -  [1) Core Java](https://www.youtube.com/watch?v=8cm1x4bC610&ab_channel=Telusko) (Done)
    - [Java Programming Tutorial (YouTube Playlist)](https://www.youtube.com/playlist?list=PLsyeobzWxl7pFZoGT1NbZJpywedeyzyaf)
    - [Github : Java Tutorial for Beginners Crash Course](https://github.com/navinreddy20/Java-Tutorial-for-Beginners-Crash-Course)
@@ -101,3 +89,4 @@
 
 
 ## References
+
