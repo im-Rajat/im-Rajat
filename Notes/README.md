@@ -1,3 +1,15 @@
 # Notes
 
+- [C/C++ Interview Questions](https://github.com/im-Rajat/CPP/blob/main/00_Archived/C-CPP-Interview-Questions.pdf)
+- [Deep Dive in C++](https://github.com/im-Rajat/CPP/blob/main/Deep-Dive-in-CPP/00-Archived/Deep-Dive-in-CPP.pdf)
+- [C++ Basic Tutorial](https://github.com/im-Rajat/CPP/blob/main/00_Archived/CPP-Basic-Tutorial.pdf)
+- [C Tutorial](https://github.com/im-Rajat/C/blob/main/00_Archived/C-Tutorial.pdf)
+- [Solid Principles](https://github.com/im-Rajat/SOLID-Principles/blob/main/00_Archived/SOLID-Principles.pdf)
+- [CICD (Jenkins)](https://github.com/im-Rajat/CICD/blob/main/00_Archived/CICD-Jenkins.pdf)
+- [Docker](https://github.com/im-Rajat/Docker/blob/main/00_Archived/Docker.pdf)
 - [AI Module](https://github.com/im-Rajat/Computer-Vision/blob/main/00_Archived/AI-Module.pdf)
+- [Django](https://github.com/im-Rajat/Django/blob/main/00_Archived/Django.pdf)
+- [Azure (IoT Hub)](https://github.com/im-Rajat/im-Rajat/blob/main/Notes/PDF/Azure-IoT-Hub.pdf)
+- [Arduino](https://github.com/im-Rajat/im-Rajat/blob/main/Notes/PDF/Arduino.pdf)
+- [Enabling AWS on Raspberry pi](https://github.com/im-Rajat/im-Rajat/blob/main/Notes/PDF/Enabling-AWS-on-Raspberry-pi.pdf)
+- [Bare Metal Embedded](https://github.com/im-Rajat/im-Rajat/blob/main/Notes/PDF/Bare-Metal-Embedded.pdf)
